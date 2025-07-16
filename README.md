@@ -24,8 +24,8 @@ This is a stat preview card design contains numerical data made with HTML5 and C
 
 ### Links
 
-- Solution URL: (https://github.com/Mohamed-Abdelreheem/Stat-Preview-Card-challenge)
-- Live Site URL: (https://mohamed-abdelreheem.github.io/Stat-Preview-Card-challenge/)
+- Solution URL: (https://github.com/Mohamed-Abdelreheem/Stat-Preview-Card)
+- Live Site URL: (https://mohamed-abdelreheem.github.io/Stat-Preview-Card/)
 
 
 ### Built with
